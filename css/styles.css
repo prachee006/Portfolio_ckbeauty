@@ -1,0 +1,74 @@
+body{
+    font-family: 'Caveat Brush', cursive;
+    background-color: wheat;
+}
+
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color:tomato;
+}
+
+.nav-link{
+
+    font-family: 'Caveat Brush', cursive;
+    background-color: black;
+
+}
+
+.navbar-nav li {
+    color:white;
+    font-weight: 900;
+    font-family: 'Caveat Brush', cursive;
+    
+}
+
+.card{
+    background-color:beige;
+}
+
+.jumbotron{
+    background-color:orange;
+}
+
+.color{
+    color: white;
+}
+
+h1 h2 h3 {
+    font-family: 'Caveat Brush', cursive;    
+}
+
+
+.lead{
+    color: tomato;
+    
+}
+
+h2 h5{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+
+.carousel-item,
+.active {
+    height: 100%;
+    
+}
+
+.carousel-inner {
+    height: 100%;
+    display: flex;
+}
+
+
+.site-footer {
+    background-color: tomato;
+    padding: 20px 0;
+} 
+
